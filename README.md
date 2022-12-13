@@ -35,12 +35,13 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 This is the user profile the application will receive:
 {
-"sub": "auth0|6396e50d60e196c81d10820a",
-"nickname": "arun",
-"name": "arun@optisolbuisiness.com",
-"picture": "https://s.gravatar.com/avatar/62b8a6fd13f721b0e04fd6bd4fee8690?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Far.png",
-"updated_at": "2022-12-12T08:24:03.864Z"
+"sub": "",
+"nickname": "",
+"name": ",
+"picture": "",
+"updated_at": ""
 }
 
 generate a suitable string using
 openssl rand -hex 32
+to test analytics for turn
